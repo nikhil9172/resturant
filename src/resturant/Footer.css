@@ -1,0 +1,24 @@
+
+.footer{
+    width: 100%;
+    color: #fff;
+    min-width: 100px;
+    position: relative;
+    bottom: 0;
+    background: #21262c;
+    padding: 2px;
+}
+.footer .first , .second{
+    padding: 10px;
+   
+    margin-bottom: 10px;
+    width:300px;
+   
+}
+
+.footer .third{
+    margin-left: 10px;
+    margin-bottom: 10px;
+  
+   
+}
